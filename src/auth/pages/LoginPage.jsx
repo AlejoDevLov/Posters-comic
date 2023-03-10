@@ -39,6 +39,7 @@ export const LoginPage = () => {
           <h1>LoginPage</h1>
           <hr />
 
+          <p id="text">Presiona <b>login</b> para entrar</p>
           <div className="contenedor-btn"
           onMouseOver={onChangeColor}
           onMouseOut={onOutColor}
